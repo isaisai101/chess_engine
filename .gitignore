@@ -1,0 +1,17 @@
+# build output
+build/
+*.exe
+*.o
+*.obj
+*.pdb
+
+# match results and logs
+*.pgn
+*.log
+
+# downloaded tools and opening books (put them in a tools/ folder)
+tools/
+*.zip
+
+# editor settings
+.vscode/

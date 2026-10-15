@@ -1,0 +1,1 @@
+g++ -std=c++20 -O2 -DNDEBUG -march=native -I src src/gui/gui.cpp -o gui.exe -lraylib -lopengl32 -lgdi32 -lwinmm
